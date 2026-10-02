@@ -1,4 +1,4 @@
-# logica-programacion-2
+# Logica-programacion-2
 
 # Instrucciones del Ejercicio de lógica de programación 2
 
